@@ -53,3 +53,30 @@ docker logs -f --tail 20 tenderduty
 
 #restart container
 docker restart tenderduty
+
+________________________
+to get alerts on discord
+________________________
+
+1) create a new channel on discord
+2) go to server settings>integration
+3) create a webhook
+4) get link of your webhook
+5) go to the config.yml
+6) add your link
+
+ready! now you will get allerts on Discord
+_________________________
+to get alents on telegram
+_________________________
+
+1) talk with @botfather
+2) use command /newbot to create
+3) enter the name of your bot (ex:alarmbot)
+4) save your bot's api
+5) talk with @JsonViewBot
+6) send random message
+7) copy ID
+8) go to config.yml and change your API and ID
+
+ready! You will get alerts from your bot
