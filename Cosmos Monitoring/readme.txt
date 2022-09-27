@@ -53,3 +53,28 @@ docker logs -f --tail 20 tenderduty
 
 #restart container
 docker restart tenderduty
+
+___________________________________
+#to create alarm channel on discord
+___________________________________
+
+1) create discord group
+2) go to server settings>integration
+3) create webhoot
+4) get link
+5) paste the link from discord to config.yml
+
+________________________________
+#to create alarm bot on telegram
+________________________________
+
+1) talk with botfather
+2) enter /newbot command
+3) enter the name of your bot (Must end with a bot) ex: alarmbot
+4) copy the api
+5) send random message to JsonViewBot
+6) copy ID
+7) go to the config.yml
+8) change id and api key
+
+ready
