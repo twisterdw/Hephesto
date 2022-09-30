@@ -72,7 +72,7 @@ ________________________
 5) go to the config.yml
 6) add your link
 
-ready! now you will get allerts on Discord
+ready! now you will get alerts on Discord
 _________________________
 to get alents on telegram
 _________________________
