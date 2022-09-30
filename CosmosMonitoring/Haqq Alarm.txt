@@ -1,6 +1,4 @@
-This is the guide - How to monitor your HAQQ validator and get alerts on Discord or Telegram
-
-
+How to monitoring your HAQQ validator and get alerts on Discord or Telegram
 
 #Update repo
 sudo apt update && sudo apt upgrade -y
